@@ -5,10 +5,11 @@ In this assignment, we were provided the bootstrap css file, and the initial ind
 The task is to identify which bootstrap classes were used for the website designed, and comment out the ones that are unnecessary. 
 The design of the final website for submission of assignment should fulfill the following rubric:
   <ul>
-    <li>a. Text scales according to user defaults [3 marks]</li>
-    <li>b. Grid layout is flexible [3 marks]</li>
-    <li>c. Images resize flexibly [3 marks]</li>
-    <li>d. Media queries used to create at least one breakpoint [3 marks]</li>
-    <li>e. Site works equally well at mobile scale as desktop scale [3 marks]</li>
+    <li>Text scales according to user defaults [3 marks]</li>
+    <li>Grid layout is flexible [3 marks]</li>
+    <li>Images resize flexibly [3 marks]</li>
+    <li>Media queries used to create at least one breakpoint [3 marks]</li>
+    <li>Site works equally well at mobile scale as desktop scale [3 marks]</li>
   </ul>
+
 Optional: Try designing your own website with your own content using the template provided by the lecturer, Shakil Ahmed.
